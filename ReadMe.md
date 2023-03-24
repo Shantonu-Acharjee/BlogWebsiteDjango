@@ -3,3 +3,4 @@
 `pip install pillow`
 `django-admin startproject blog_website`
 `python manage.py startapp blog`
+`python manage.py runserver`
