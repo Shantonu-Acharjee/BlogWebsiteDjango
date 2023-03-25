@@ -8,3 +8,4 @@
 `python manage.py runserver` <br>
 `python manage.py startapp user_profile` <br>
 `python manage.py makemigrations` <br>
+`python manage.py migrate` br
