@@ -12,3 +12,4 @@
 `python manage.py createsuperuser` <br>
 `pip install django-tinymce` <br>
 `pip install django-material-admin` <br>
+`pip uninstall django-tinymce` <br>
